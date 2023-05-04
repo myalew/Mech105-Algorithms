@@ -5,5 +5,6 @@ error, and number of iterations.
 Syntax: FalsePosition(func, xl, xu, es, maxit, varargin)
 
 Example:
->> func = @(x) x^2-1
->> FalsePosition(func, -3, 0, 0.001, 100)
+> func = @(x) x^2-1
+>
+> FalsePosition(func, -3, 0, 0.001, 100)

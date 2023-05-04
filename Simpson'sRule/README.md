@@ -4,6 +4,7 @@ spaced. Returns I, the calculated numerical integral.
 Syntax: simpsonsRule(x,y)
 
 Example:
->> x = [1, 3, 5, 7, 9]
->> y = [12, 23, 45, 67]
->> simpsonsRule(x, y)
+> x = [1, 3, 5, 7, 9]
+> y = [12, 23, 45, 67]
+>
+> simpsonsRule(x, y)
